@@ -4,9 +4,15 @@ table, th ,td{
 }
 table{
 	background: yellow;
-	content: center;
+	
 }
 .h1{
-	text-align: ;
+	text-align: center;
 font-size:  15px ;
+}
+.table_center{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+
 }

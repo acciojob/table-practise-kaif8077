@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+table, th ,td{
+	border:1px solid black;
+}
+table{
+	background: yellow;
+	content: center;
+}
+.h1{
+	text-align: ;
+font-size:  15px ;
+}
